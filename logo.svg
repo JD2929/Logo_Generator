@@ -1,2 +1,1 @@
-<svg width="300px" height="200px" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="50 15, 100 100, 0 100" stroke="red" fill= "red" stroke-width="5"/> <text x="40px" y="140px" textLength ="220px" stroke="blue" fill = "blue" font-size ="80px">HIT</text></svg>
+<svg width="300px" height="200px" xmlns="http://www.w3.org/2000/svg"> <polygon points="150 55, 52 195, 248 195" stroke="blue" fill= "blue" stroke-width="5"/> <text x="90px" y="130px" textLength ="125px" stroke="black" fill = "black" font-size ="70px">STP</text></svg>
