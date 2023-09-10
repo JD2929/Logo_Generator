@@ -1,8 +1,0 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="150 5, 52 195, 248 195" stroke="red" fill= "red" stroke-width="5"> 
- 
-   <text x="90px" y="160px" textLength ="125px" stroke="black" fill = "black" font-size ="70px"/>
-   </polygon>
-   </svg>
-
-   
