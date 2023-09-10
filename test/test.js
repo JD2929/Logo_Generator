@@ -1,8 +1,8 @@
 //import all of the needed files
 
-import {Square} from "../lib/square.js";
-import {Circle} from "../lib/circle.js";
-import {Triangle} from "./lib/triangle.js";
+import { Square } from "../lib/square.js";
+import { Circle } from "../lib/circle.js";
+import { Triangle } from "./lib/triangle.js";
 
 //test for square
 //first ran with incorrect specs then put in correct sq specs
