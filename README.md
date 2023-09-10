@@ -42,6 +42,17 @@ Circle Logo
 
 ![circle logo](https://github.com/JD2929/Logo_Generator/assets/139637504/4e877c24-655c-4bee-89ff-6af552e6893e)
 
+## Video of first test for circle failing (on purpose) 
+
+https://bootcampspot.instructuremedia.com/embed/9153bc2b-831a-4d33-885b-41e6f2a7cf4a
+
+## Video of test passing for a circle
+
+https://bootcampspot.instructuremedia.com/embed/a04578ed-7eac-4073-82b3-cb8d7c41e99d
+
+## Video of the generation of 3 different logos using each of the different shapes once. 
+
+https://bootcampspot.instructuremedia.com/embed/86960a68-2626-4826-9742-7b8a5d4d69c7
 
 ## Link to GitHub repo for this assignment
 
