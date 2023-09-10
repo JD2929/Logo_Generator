@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security",
-    "inquirer": "^9.2.10"
+    "inquirer": "^9.2.10",
+    "inquirer-maxlength-input-prompt": "^1.0.2"
   },
   "devDependencies": {
     "jest": "^29.6.4"
